@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microboot-activemq" />
+        <module name="microboot-actuator" />
+        <module name="microboot-advance" />
+        <module name="microboot-base" />
+        <module name="microboot-email" />
+        <module name="microboot-error" />
+        <module name="microboot-interceptor" />
+        <module name="microboot-kafka-consumer" />
+        <module name="microboot-kafka-producer" />
+        <module name="microboot-mybatis" />
+        <module name="microboot-rabbitmq-consumer" />
+        <module name="microboot-rabbitmq-producer" />
+        <module name="microboot-redis" />
+        <module name="microboot-restful-api" />
+        <module name="microboot-restful-consumer" />
+        <module name="microboot-restful-log" />
+        <module name="microboot-restful-provider" />
+        <module name="microboot-restful-swagger" />
+        <module name="microboot-shiro-api" />
+        <module name="microboot-shiro-member-provider" />
+        <module name="microboot-shiro-web" />
+        <module name="microboot-task" />
+        <module name="microboot-thymeleaf" />
+        <module name="microboot-tomcat" />
+        <module name="microboot-upload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microboot" target="1.8" />
+      <module name="microboot-activemq" target="1.8" />
+      <module name="microboot-actuator" target="1.8" />
+      <module name="microboot-advance" target="1.8" />
+      <module name="microboot-base" target="1.8" />
+      <module name="microboot-email" target="1.8" />
+      <module name="microboot-error" target="1.8" />
+      <module name="microboot-interceptor" target="1.8" />
+      <module name="microboot-kafka-consumer" target="1.8" />
+      <module name="microboot-kafka-producer" target="1.8" />
+      <module name="microboot-mybatis" target="1.8" />
+      <module name="microboot-rabbitmq-consumer" target="1.8" />
+      <module name="microboot-rabbitmq-producer" target="1.8" />
+      <module name="microboot-redis" target="1.8" />
+      <module name="microboot-restful-api" target="1.8" />
+      <module name="microboot-restful-consumer" target="1.8" />
+      <module name="microboot-restful-log" target="1.8" />
+      <module name="microboot-restful-provider" target="1.8" />
+      <module name="microboot-restful-swagger" target="1.8" />
+      <module name="microboot-shiro-api" target="1.8" />
+      <module name="microboot-shiro-member-provider" target="1.8" />
+      <module name="microboot-shiro-web" target="1.8" />
+      <module name="microboot-task" target="1.8" />
+      <module name="microboot-thymeleaf" target="1.8" />
+      <module name="microboot-tomcat" target="1.8" />
+      <module name="microboot-upload" target="1.8" />
+      <module name="remindme" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

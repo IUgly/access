@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<link rel="stylesheet" type="text/css" media="all"
+		  href="../../css/gtvg.css" th:href="@{/css/gtvg.css}" />
+	<title>SpringBoot模版渲染</title>
+	<script type="text/javascript" th:src="@{/js/main.js}"></script> 
+	<link rel="icon" type="image/x-icon" href="/images/L.png"/>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+</head>
+<body>
+<table>
+	<tr>
+		<h1>短链接：<td th:text="${shortUrl}"/><a th:href="${shortUrl}">短链接</a></h1>
+	</tr>
+</table>
+<table>
+	<tr>
+		<h1>长链接：<td th:text="${longUrl}"/><a th:href="${longUrl}">长链接</a></h1>
+	</tr>
+</table>
+</body>
+</html>

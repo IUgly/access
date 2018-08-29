@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Class-Path: commons-collections-3.2.2.jar groovy-2.4.11.jar tomcat-jul
+ i-8.5.15.jar spring-boot-starter-logging-1.5.4.RELEASE.jar thymeleaf-
+ layout-dialect-1.4.0.jar asm-commons-5.1.jar tools.jar spring-boot-st
+ arter-1.5.4.RELEASE.jar spring-boot-starter-jdbc-1.5.4.RELEASE.jar sp
+ ring-aop-4.3.9.RELEASE.jar apache-el-8.0.33.jar jboss-logging-3.3.1.F
+ inal.jar tomcat-embed-el-8.5.15.jar ezmorph-1.0.6.jar jetty-io-9.4.5.
+ v20170502.jar jetty-annotations-9.4.5.v20170502.jar websocket-common-
+ 9.4.5.v20170502.jar log4j-over-slf4j-1.7.25.jar jetty-client-9.4.5.v2
+ 0170502.jar mybatis-spring-1.3.1.jar hibernate-validator-5.3.5.Final.
+ jar fastjson-1.2.16.jar commons-lang-2.5.jar spring-boot-starter-tomc
+ at-1.5.4.RELEASE.jar spring-core-4.3.9.RELEASE.jar commons-logging-1.
+ 1.1.jar jetty-webapp-9.4.5.v20170502.jar jetty-http-9.4.5.v20170502.j
+ ar mybatis-spring-boot-autoconfigure-1.3.0.jar javax-websocket-server
+ -impl-9.4.5.v20170502.jar springloaded-1.2.7.RELEASE.jar spring-boot-
+ devtools-1.5.4.RELEASE.jar thymeleaf-2.1.5.RELEASE.jar jetty-servlets
+ -9.4.5.v20170502.jar spring-boot-starter-jetty-1.5.4.RELEASE.jar jett
+ y-server-9.4.5.v20170502.jar spring-expression-4.3.9.RELEASE.jar jett
+ y-servlet-9.4.5.v20170502.jar jackson-core-2.8.8.jar appengine-api-1.
+ 0-sdk-1.9.60.jar asm-5.1.jar mybatis-spring-boot-starter-1.3.0.jar ju
+ l-to-slf4j-1.7.25.jar unbescape-1.1.0.RELEASE.jar tomcat-embed-websoc
+ ket-8.5.15.jar jetty-continuation-9.4.5.v20170502.jar jackson-annotat
+ ions-2.8.0.jar websocket-api-9.4.5.v20170502.jar spring-boot-autoconf
+ igure-1.5.4.RELEASE.jar jconsole.jar spring-boot-starter-thymeleaf-1.
+ 5.4.RELEASE.jar jetty-util-9.4.5.v20170502.jar spring-web-4.3.9.RELEA
+ SE.jar spring-jdbc-4.3.9.RELEASE.jar jackson-databind-2.8.8.jar tomca
+ t-jdbc-8.5.15.jar jetty-plus-9.4.5.v20170502.jar spring-context-4.3.9
+ .RELEASE.jar logback-classic-1.1.11.jar commons-beanutils-1.9.3.jar j
+ cl-over-slf4j-1.7.25.jar validation-api-1.1.0.Final.jar javassist-3.2
+ 1.0-GA.jar slf4j-api-1.7.25.jar mysql-connector-java-5.0.4.jar classm
+ ate-1.3.3.jar tomcat-embed-core-8.5.15.jar logback-core-1.1.11.jar ja
+ vax.annotation-api-1.2.jar spring-beans-4.3.9.RELEASE.jar websocket-s
+ ervlet-9.4.5.v20170502.jar javax-websocket-client-impl-9.4.5.v2017050
+ 2.jar ognl-3.0.8.jar jetty-security-9.4.5.v20170502.jar websocket-cli
+ ent-9.4.5.v20170502.jar druid-1.0.31.jar spring-tx-4.3.9.RELEASE.jar 
+ javax.websocket-api-1.0.jar websocket-server-9.4.5.v20170502.jar snak
+ eyaml-1.17.jar asm-tree-5.1.jar spring-boot-starter-web-1.5.4.RELEASE
+ .jar spring-boot-1.5.4.RELEASE.jar thymeleaf-spring4-2.1.5.RELEASE.ja
+ r spring-webmvc-4.3.9.RELEASE.jar javax.servlet-api-3.1.0.jar jetty-x
+ ml-9.4.5.v20170502.jar mybatis-3.4.4.jar
+Main-Class: team.redrock.microboot.StartSpringBootMain
+

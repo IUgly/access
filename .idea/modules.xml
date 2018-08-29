@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microboot.iml" filepath="$PROJECT_DIR$/microboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-activemq/microboot-activemq.iml" filepath="$PROJECT_DIR$/microboot-activemq/microboot-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-actuator/microboot-actuator.iml" filepath="$PROJECT_DIR$/microboot-actuator/microboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-advance/microboot-advance.iml" filepath="$PROJECT_DIR$/microboot-advance/microboot-advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-base/microboot-base.iml" filepath="$PROJECT_DIR$/microboot-base/microboot-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-email/microboot-email.iml" filepath="$PROJECT_DIR$/microboot-email/microboot-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-error/microboot-error.iml" filepath="$PROJECT_DIR$/microboot-error/microboot-error.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-interceptor/microboot-interceptor.iml" filepath="$PROJECT_DIR$/microboot-interceptor/microboot-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-kafka-consumer/microboot-kafka-consumer.iml" filepath="$PROJECT_DIR$/microboot-kafka-consumer/microboot-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-kafka-producer/microboot-kafka-producer.iml" filepath="$PROJECT_DIR$/microboot-kafka-producer/microboot-kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-mybatis/microboot-mybatis.iml" filepath="$PROJECT_DIR$/microboot-mybatis/microboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-rabbitmq-consumer/microboot-rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/microboot-rabbitmq-consumer/microboot-rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-rabbitmq-producer/microboot-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/microboot-rabbitmq-producer/microboot-rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-redis/microboot-redis.iml" filepath="$PROJECT_DIR$/microboot-redis/microboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-restful-api/microboot-restful-api.iml" filepath="$PROJECT_DIR$/microboot-restful-api/microboot-restful-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-restful-consumer/microboot-restful-consumer.iml" filepath="$PROJECT_DIR$/microboot-restful-consumer/microboot-restful-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-restful-log/microboot-restful-log.iml" filepath="$PROJECT_DIR$/microboot-restful-log/microboot-restful-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-restful-provider/microboot-restful-provider.iml" filepath="$PROJECT_DIR$/microboot-restful-provider/microboot-restful-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-restful-swagger/microboot-restful-swagger.iml" filepath="$PROJECT_DIR$/microboot-restful-swagger/microboot-restful-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-shiro-api/microboot-shiro-api.iml" filepath="$PROJECT_DIR$/microboot-shiro-api/microboot-shiro-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-shiro-member-provider/microboot-shiro-member-provider.iml" filepath="$PROJECT_DIR$/microboot-shiro-member-provider/microboot-shiro-member-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-shiro-web/microboot-shiro-web.iml" filepath="$PROJECT_DIR$/microboot-shiro-web/microboot-shiro-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-task/microboot-task.iml" filepath="$PROJECT_DIR$/microboot-task/microboot-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-thymeleaf/microboot-thymeleaf.iml" filepath="$PROJECT_DIR$/microboot-thymeleaf/microboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-tomcat/microboot-tomcat.iml" filepath="$PROJECT_DIR$/microboot-tomcat/microboot-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microboot-upload/microboot-upload.iml" filepath="$PROJECT_DIR$/microboot-upload/microboot-upload.iml" />
+    </modules>
+  </component>
+</project>

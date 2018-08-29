@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SpringBoot模版渲染</title>
+    <script type="text/javascript" th:src="@{/js/main.js}"></script>
+    <link rel="icon" type="image/x-icon" href="/images/L.png"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+</head>
+<body>
+<form th:action="@{/short}" method="post" enctype="multipart/form-data">
+    输入长连接(需要添加协议)<input type="text" name="url"/><br/>
+    <input type="submit" value="提交"/><br/>
+    <!--自定义标签<input type="text" name="tag"/><br/>-->
+    <!--<input type="submit" value="提交"/><br/>-->
+</form>
+</body>
+</html>

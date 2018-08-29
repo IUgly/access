@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-advance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-kafka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-kafka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-rabbitmq-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-restful-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-member-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-shiro-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-tomcat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microboot-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/remindme" charset="UTF-8" />
+  </component>
+</project>

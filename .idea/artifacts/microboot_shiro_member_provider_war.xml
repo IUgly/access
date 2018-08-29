@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="microboot-shiro-member-provider:war">
+    <output-path>$PROJECT_DIR$/microboot-shiro-member-provider/target</output-path>
+    <root id="archive" name="mldn.war">
+      <element id="artifact" artifact-name="microboot-shiro-member-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
